@@ -71,7 +71,7 @@ pressed enter key.
 22.	successful Next sudo certbot –nginx was ran on the terminal, where certificate was and deployed
 23.	Finally ran openssl s_client -connect ovodom.store:443
 
-24.	Visit to domain using https://ovodom.store.
+24.	Visit to https://ovodom.store.
 
 ![24](img/img20.png)
 
